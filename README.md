@@ -30,7 +30,7 @@ I worked on data preparation, customer analytics, experimentation, and final rep
 
 ---
 
-## 🛠 Skills & Tools Used
+## Skills & Tools Used
 - **Data Analysis**
 - **Retail Analytics**
 - **Customer Segmentation**
